@@ -6,7 +6,7 @@
     {"id":{"name":"gs_obj_rhino","path":"objects/gs_obj_rhino/gs_obj_rhino.yy",},"order":0,},
     {"id":{"name":"main_info","path":"scripts/main_info/main_info.yy",},"order":0,},
     {"id":{"name":"gs_spr_avatar","path":"sprites/gs_spr_avatar/gs_spr_avatar.yy",},"order":3,},
-    {"id":{"name":"main_result","path":"scripts/main_result/main_result.yy",},"order":2,},
+    {"id":{"name":"main_set_result","path":"scripts/main_set_result/main_set_result.yy",},"order":2,},
     {"id":{"name":"gs_feralrhinorun","path":"rooms/gs_feralrhinorun/gs_feralrhinorun.yy",},"order":0,},
     {"id":{"name":"main_control","path":"objects/main_control/main_control.yy",},"order":0,},
     {"id":{"name":"gs_spr_gameicon","path":"sprites/gs_spr_gameicon/gs_spr_gameicon.yy",},"order":4,},
@@ -52,7 +52,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "gmiware_0_1",

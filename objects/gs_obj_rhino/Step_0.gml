@@ -15,7 +15,7 @@ if global.gamestatus = mg.Ongoing
 	
 	if global.gametimer <= 0
 	{
-		main_result(mg.Won);
+		main_set_result(mg.Won);
 	}
 }
 
