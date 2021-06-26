@@ -8,7 +8,7 @@ if room != main_rm_mode
 	}
 	else if global.gamestatus = mg.Ongoing
 	{
-		main_result(mg.Lost);
+		main_set_result(mg.Lost);
 	}
 }
 
